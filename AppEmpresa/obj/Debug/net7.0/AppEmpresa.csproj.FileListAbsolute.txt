@@ -1,0 +1,67 @@
+C:\Users\user\Desktop\AppEmpresa\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\user\Desktop\AppEmpresa\bin\Debug\net7.0\appsettings.json
+C:\Users\user\Desktop\AppEmpresa\bin\Debug\net7.0\AppEmpresa.staticwebassets.runtime.json
+C:\Users\user\Desktop\AppEmpresa\bin\Debug\net7.0\AppEmpresa.exe
+C:\Users\user\Desktop\AppEmpresa\bin\Debug\net7.0\AppEmpresa.deps.json
+C:\Users\user\Desktop\AppEmpresa\bin\Debug\net7.0\AppEmpresa.runtimeconfig.json
+C:\Users\user\Desktop\AppEmpresa\bin\Debug\net7.0\AppEmpresa.dll
+C:\Users\user\Desktop\AppEmpresa\bin\Debug\net7.0\AppEmpresa.pdb
+C:\Users\user\Desktop\AppEmpresa\obj\Debug\net7.0\AppEmpresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\AppEmpresa\obj\Debug\net7.0\AppEmpresa.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\AppEmpresa\obj\Debug\net7.0\AppEmpresa.AssemblyInfo.cs
+C:\Users\user\Desktop\AppEmpresa\obj\Debug\net7.0\AppEmpresa.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\AppEmpresa\obj\Debug\net7.0\AppEmpresa.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\AppEmpresa\obj\Debug\net7.0\AppEmpresa.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\AppEmpresa\obj\Debug\net7.0\AppEmpresa.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\AppEmpresa\obj\Debug\net7.0\staticwebassets\msbuild.AppEmpresa.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\AppEmpresa\obj\Debug\net7.0\staticwebassets\msbuild.build.AppEmpresa.props
+C:\Users\user\Desktop\AppEmpresa\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AppEmpresa.props
+C:\Users\user\Desktop\AppEmpresa\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AppEmpresa.props
+C:\Users\user\Desktop\AppEmpresa\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\user\Desktop\AppEmpresa\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\user\Desktop\AppEmpresa\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\user\Desktop\AppEmpresa\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\user\Desktop\AppEmpresa\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\user\Desktop\AppEmpresa\obj\Debug\net7.0\scopedcss\bundle\AppEmpresa.styles.css
+C:\Users\user\Desktop\AppEmpresa\obj\Debug\net7.0\scopedcss\projectbundle\AppEmpresa.bundle.scp.css
+C:\Users\user\Desktop\AppEmpresa\obj\Debug\net7.0\AppEmpresa.dll
+C:\Users\user\Desktop\AppEmpresa\obj\Debug\net7.0\refint\AppEmpresa.dll
+C:\Users\user\Desktop\AppEmpresa\obj\Debug\net7.0\AppEmpresa.pdb
+C:\Users\user\Desktop\AppEmpresa\obj\Debug\net7.0\AppEmpresa.genruntimeconfig.cache
+C:\Users\user\Desktop\AppEmpresa\obj\Debug\net7.0\ref\AppEmpresa.dll
+D:\SEGUNDO SEMESTRE 2026\DW\AppEmpresa\obj\Debug\net7.0\rpswa.dswa.cache.json
+D:\SEGUNDO SEMESTRE 2026\DW\AppEmpresa\obj\Debug\net7.0\AppEmpresa.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEGUNDO SEMESTRE 2026\DW\AppEmpresa\obj\Debug\net7.0\AppEmpresa.AssemblyInfoInputs.cache
+D:\SEGUNDO SEMESTRE 2026\DW\AppEmpresa\obj\Debug\net7.0\AppEmpresa.AssemblyInfo.cs
+D:\SEGUNDO SEMESTRE 2026\DW\AppEmpresa\obj\Debug\net7.0\AppEmpresa.csproj.CoreCompileInputs.cache
+D:\SEGUNDO SEMESTRE 2026\DW\AppEmpresa\obj\Debug\net7.0\AppEmpresa.MvcApplicationPartsAssemblyInfo.cache
+D:\SEGUNDO SEMESTRE 2026\DW\AppEmpresa\obj\Debug\net7.0\AppEmpresa.RazorAssemblyInfo.cache
+D:\SEGUNDO SEMESTRE 2026\DW\AppEmpresa\obj\Debug\net7.0\AppEmpresa.RazorAssemblyInfo.cs
+D:\SEGUNDO SEMESTRE 2026\DW\AppEmpresa\obj\Debug\net7.0\AppEmpresa.dll
+D:\SEGUNDO SEMESTRE 2026\DW\AppEmpresa\obj\Debug\net7.0\refint\AppEmpresa.dll
+D:\SEGUNDO SEMESTRE 2026\DW\AppEmpresa\obj\Debug\net7.0\AppEmpresa.pdb
+D:\SEGUNDO SEMESTRE 2026\DW\AppEmpresa\bin\Debug\net7.0\appsettings.Development.json
+D:\SEGUNDO SEMESTRE 2026\DW\AppEmpresa\bin\Debug\net7.0\appsettings.json
+D:\SEGUNDO SEMESTRE 2026\DW\AppEmpresa\bin\Debug\net7.0\AppEmpresa.staticwebassets.runtime.json
+D:\SEGUNDO SEMESTRE 2026\DW\AppEmpresa\bin\Debug\net7.0\AppEmpresa.staticwebassets.endpoints.json
+D:\SEGUNDO SEMESTRE 2026\DW\AppEmpresa\bin\Debug\net7.0\AppEmpresa.exe
+D:\SEGUNDO SEMESTRE 2026\DW\AppEmpresa\bin\Debug\net7.0\AppEmpresa.deps.json
+D:\SEGUNDO SEMESTRE 2026\DW\AppEmpresa\bin\Debug\net7.0\AppEmpresa.runtimeconfig.json
+D:\SEGUNDO SEMESTRE 2026\DW\AppEmpresa\bin\Debug\net7.0\AppEmpresa.dll
+D:\SEGUNDO SEMESTRE 2026\DW\AppEmpresa\bin\Debug\net7.0\AppEmpresa.pdb
+D:\SEGUNDO SEMESTRE 2026\DW\AppEmpresa\obj\Debug\net7.0\rjimswa.dswa.cache.json
+D:\SEGUNDO SEMESTRE 2026\DW\AppEmpresa\obj\Debug\net7.0\rjsmrazor.dswa.cache.json
+D:\SEGUNDO SEMESTRE 2026\DW\AppEmpresa\obj\Debug\net7.0\rjsmcshtml.dswa.cache.json
+D:\SEGUNDO SEMESTRE 2026\DW\AppEmpresa\obj\Debug\net7.0\scopedcss\Layout\MainLayout.razor.rz.scp.css
+D:\SEGUNDO SEMESTRE 2026\DW\AppEmpresa\obj\Debug\net7.0\scopedcss\Layout\NavMenu.razor.rz.scp.css
+D:\SEGUNDO SEMESTRE 2026\DW\AppEmpresa\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\SEGUNDO SEMESTRE 2026\DW\AppEmpresa\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\SEGUNDO SEMESTRE 2026\DW\AppEmpresa\obj\Debug\net7.0\scopedcss\bundle\AppEmpresa.styles.css
+D:\SEGUNDO SEMESTRE 2026\DW\AppEmpresa\obj\Debug\net7.0\scopedcss\projectbundle\AppEmpresa.bundle.scp.css
+D:\SEGUNDO SEMESTRE 2026\DW\AppEmpresa\obj\Debug\net7.0\staticwebassets.build.json
+D:\SEGUNDO SEMESTRE 2026\DW\AppEmpresa\obj\Debug\net7.0\staticwebassets.build.json.cache
+D:\SEGUNDO SEMESTRE 2026\DW\AppEmpresa\obj\Debug\net7.0\staticwebassets.development.json
+D:\SEGUNDO SEMESTRE 2026\DW\AppEmpresa\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+D:\SEGUNDO SEMESTRE 2026\DW\AppEmpresa\obj\Debug\net7.0\swae.build.ex.cache
+D:\SEGUNDO SEMESTRE 2026\DW\AppEmpresa\obj\Debug\net7.0\AppEmpresa.genruntimeconfig.cache
+D:\SEGUNDO SEMESTRE 2026\DW\AppEmpresa\obj\Debug\net7.0\ref\AppEmpresa.dll

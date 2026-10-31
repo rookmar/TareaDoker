@@ -1,0 +1,7 @@
+D:\SEGUNDO SEMESTRE 2026\DW\AppEmpresa\bin\Release\net10.0\publish\AppEmpresa.exe
+D:\SEGUNDO SEMESTRE 2026\DW\AppEmpresa\bin\Release\net10.0\publish\appsettings.Development.json
+D:\SEGUNDO SEMESTRE 2026\DW\AppEmpresa\bin\Release\net10.0\publish\appsettings.json
+D:\SEGUNDO SEMESTRE 2026\DW\AppEmpresa\bin\Release\net10.0\publish\AppEmpresa.dll
+D:\SEGUNDO SEMESTRE 2026\DW\AppEmpresa\bin\Release\net10.0\publish\AppEmpresa.runtimeconfig.json
+D:\SEGUNDO SEMESTRE 2026\DW\AppEmpresa\bin\Release\net10.0\publish\AppEmpresa.pdb
+D:\SEGUNDO SEMESTRE 2026\DW\AppEmpresa\bin\Release\net10.0\publish\AppEmpresa.deps.json
